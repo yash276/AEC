@@ -28,3 +28,25 @@ print(type(age_str))
 output = "Student age : " + age_str
 output = f"Student age : {age}" 
 print(output)
+
+x = 10 
+y = 5
+# boolean variables bool
+outcome = True
+
+print(bool(age))
+print(bool(height))
+print(bool(first_name))
+
+#any non-zero value is considered as true
+print(bool(5))
+print(bool(0))
+
+empty_str = ""
+print(bool(empty_str))
+
+empty_float = 0.0
+print(bool(empty_float))
+
+empty_var = None
+print(bool(empty_var))
