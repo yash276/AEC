@@ -31,22 +31,24 @@ print(output)
 
 x = 10 
 y = 5
-# boolean variables bool
-outcome = True
+
+# boolean variables
+# bool()
+outcome = False
+print(type(outcome))
 
 print(bool(age))
-print(bool(height))
 print(bool(first_name))
+print(bool(height))
 
-#any non-zero value is considered as true
-print(bool(5))
-print(bool(0))
-
+# any non-zero values is considered True
+# any zero value is consideted as False
 empty_str = ""
-print(bool(empty_str))
-
 empty_float = 0.0
+empty_int = 0
+print(bool(empty_str))
 print(bool(empty_float))
+print(bool(empty_int))
 
-empty_var = None
-print(bool(empty_var))
+empty = None
+print(bool(empty))
