@@ -1,29 +1,54 @@
-# lsit is a collection of multiple values of same or different data tupes
-# list index startes from 0.
-student = ["Yash" ,"Shormi", "Ram" , "Kajol" , "Monica" , "Chintu"]
-marks = [23, 45,67,234,67,24]
-multi_list = [23, 45,True,"Yash",67,24.0]
-print(type(student))
-print(type(marks))
-print(type(multi_list))
-print(student)
-print(marks)
-print(multi_list)
-#  indexing 
-#  indexing  singel element
-print(student[0])
-print(student[5])
-#  indexing for multiple elements 
-# including 0 and excluding 3
-print(student[0:3])
+# collection is used when you want to store multiple values in a variable
+# list() 
+# indexing for list starts with 0 
+# list is ordered
+# list is changable ( add , remove/delete, modify)
+# list allows duplicate items.
 
+student = ["Carryminati","Gareeb","RakaZone","Tanamy Bhat"]
+marks =[34,45,67,78]
+mixed_list = ["NAme",45.75,True,45]
+
+print(student)
+print(type(student))
+
+# indexing for single element
+print(student[0])
+# indexing for multipkle elements [ from : to ]
+# include 0
+# exclude 3
+print(student[0:3])
+print(student[1:4])
 print(student[:3])
+print(student[1:])
 
 # reverse indexing
+# single lement
 print(student[-1])
 print(student[-3])
-print(student[-6])
+# multiple elements
+print(student[-2:])
 
-print(student[-3:])
-print(student[:])
+# add element at the end of the list
+student.append("Scout")
+student.append("RakaZone")
+print(student)
+# add element to an index
+student.insert(2,"Mortal")
+print(student)
 
+# remove an element
+student.remove("Tanamy Bhat")
+print(student) 
+# remove an element from index
+student.pop(3)
+print(student)
+# length of list
+print(len(student))
+
+# modify single element
+student[2] = "Tanmay Baht"
+print(student)
+# modify multiple elements in a list
+student[-2:] = ["Mortal","Daddy"]
+print(student)
