@@ -1,0 +1,14 @@
+unsigned int fib(unsigned int n) {
+   if (!n)
+       return 0;
+   else if (n <= 2)
+       return 1;
+   else {
+       unsigned int f_nminus2, f_nminus1, f_n;       
+       for (f_nminus2 = f_nminus1 = 1, f_n = 0; ; --n) {
+           f_n = f_nminus2 + f_nminus1;
+           if (n <= 2) return f_n;
+           f_nminus2 = f_nminus1;
+       }
+   }
+}

@@ -1,0 +1,21 @@
+fib:
+        movl %edi, %eax        ; put the argument into %eax
+        testl %edi, %edi       ; is it zero?
+        je .return_from_fib    ; yes - return 0, which is already in %eax
+        cmpl $2, %edi          ; is 2 greater than or equal to it?
+        jbe .return_1_from_fib ; yes (i.e., it's 1 or 2) - return 1
+        movl %edi, %ecx        ; no - put it in %ecx, for use as a counter
+        movl $1, %edx          ; the previous number in the sequence, which starts out as 1
+        movl $1, %esi          ; the number before that, which also starts out as 1
+.fib_loop:
+        leal (%rsi,%rdx), %eax ; put the sum of the previous two numbers into %eax
+        cmpl $2, %ecx          ; is the counter 2?
+        je .return_from_fib    ; yes - %eax contains the result
+        movl %edx, %esi        ; make the previous number the number before the previous one
+        decl %ecx              ; decrement the counter
+        movl %eax, %edx        ; make the current number the previous number
+        jmp .fib_loop          ; keep going
+.return_1_from_fib:
+        movl $1, %eax          ; set the return value to 1
+.return_from_fib:
+        ret                    ; return
