@@ -1,0 +1,37 @@
+#binary code
+10110000 01100001
+
+# machine code in Hex
+B0 61
+
+# assembly code
+#Load AL with 97 decimal (61 hex)
+MOV AL, 61h
+
+#binary
+111001100010010100100001010101
+000001111111100010001011100011
+101110000000000000000000000000
+000000000000000000000000000000
+              1100001101011101
+
+#machine code
+e5894855
+03fc45c7
+b8000000
+00000000
+    c35d
+
+#assembly code
+pushq %rbp
+movq %rsp, %rbp
+movl $3, -4(%rbp)
+movl $0, %eax
+popq %rbp
+ret
+
+#high level
+int main(){
+    int x;
+    x=3;
+}
