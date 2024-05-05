@@ -1,7 +1,9 @@
-# <p align="center"> Abhilasha EDU Center (अEC)
-Free Education for All
+<h1 align="center"> Abhilasha EDU Center (अEC)</h1>
 
-[![Youtube Icon](assets/youtube-color.svg)](https://www.youtube.com/@AbhilashaEduCenter) 
-</p>
+<div align="center">
+<h3><i>Free Education for All</i></h3>
+
+<a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
 
 ![अEC](assets/logo.png)
+</div>
