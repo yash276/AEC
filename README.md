@@ -7,3 +7,18 @@
 
 ![अEC](assets/logo.png)
 </div>
+
+<hr/>
+
+### Contents:
+
+<hr/>
+
+### About Us:
+
+<hr/>
+
+### Topic:
+- [x] Common Coding Concepts ( CCC ):
+- [ ] C Programming ( C ):
+- [ ] Python Programming ( Python ):
