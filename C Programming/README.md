@@ -5,7 +5,7 @@
 
 <a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
 
-![अEC](assets/logo.png)
+![अEC](../assets/logo.png)
 </div>
 
 <hr/>
