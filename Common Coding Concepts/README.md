@@ -53,4 +53,5 @@ Instagram: [Your Instagram Handle]
 - [ ] Language Translator ( CCC-2 ):
   - [ ] Notes:
   - [ ] Video:
-  - [ ] Pre-Requisite:  
+  - [ ] Pre-Requisite:
+    - [x] CCC-1: Link to Youtube Video 
