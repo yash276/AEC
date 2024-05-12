@@ -48,8 +48,14 @@ Instagram: [Your Instagram Handle]
 ### Topic:
 - [ ] <b>Coding Tutorials</b>: Whether you're a beginner or an experienced coder, our coding tutorials will help you sharpen your skills in popular programming languages like Python, Java, C, C++, JavaScript, and more.
   - [x] Common Coding Concepts ( CCC ):
+    - [ ] Pre-Requisties:
+    - [ ] Playlist Link:
   - [ ] C Programming ( C ):
+    - [ ] Pre-Requisties:
+    - [ ] Playlist Link:
   - [ ] Python Programming ( Python ):
+    - [ ] Pre-Requisties:
+    - [ ] Playlist Link:
      
 <hr/>
 
