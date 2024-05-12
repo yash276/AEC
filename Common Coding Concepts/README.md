@@ -48,6 +48,8 @@ Instagram: [Your Instagram Handle]
 <hr/>
 
 ### Topic:
-- [x] Common Coding Concepts ( CCC ):
-- [ ] C Programming ( C ):
-- [ ] Python Programming ( Python ):
+- [ ] Intro ( CCC-1 ):
+  - [ ] Video:  
+- [ ] Language Translator ( CCC-2 ):
+  - [ ] Notes:
+  - [ ] Video:
