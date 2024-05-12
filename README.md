@@ -51,11 +51,12 @@ Instagram: [Your Instagram Handle]
     - [ ] Pre-Requisties:
     - [ ] Playlist Link:
   - [ ] C Programming ( C ):
-    - [ ] Pre-Requisties:
+    - [x] Pre-Requisties:
+      - [ ] CCC : Playlist link
     - [ ] Playlist Link:
   - [ ] Python Programming ( Python ):
     - [ ] Pre-Requisties:
-    - [ ] Playlist Link:
+      - [ ] CCC : Playlist Link
      
 <hr/>
 
