@@ -48,7 +48,7 @@ Instagram: [Your Instagram Handle]
 <hr/>
 
 ### Topic:
-- [ ] Intro ( CCC-1 ):
+- [ ] Intro ( CCC-1 ): <a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a> 
   - [ ] Video:  
 - [ ] Language Translator ( CCC-2 ):
   - [ ] Notes:
