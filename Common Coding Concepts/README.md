@@ -38,20 +38,28 @@ Ready to embark on your learning journey? Subscribe to LearnTech and hit the not
 
 #### Connect With Us:
 
-Subscribe: [Link to Subscribe]
-Website: [Your Website URL]
-Facebook: [Your Facebook Page]
-Twitter: [Your Twitter Handle]
-Instagram: [Your Instagram Handle]
+- <b>Subscribe</b>: <a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
+- <b>Website</b>: [Your Website URL]
+- <b>Facebook</b>: [Your Facebook Page]
+- <b>Twitter</b>: [Your Twitter Handle]
+- <b>Instagram</b>: [Your Instagram Handle]
 
 
 <hr/>
 
-### Topic:
-- [ ] Intro ( CCC-1 ): <a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a> 
-  - [ ] Video:  
-- [ ] Language Translator ( CCC-2 ):
-  - [ ] Notes:
-  - [ ] Video:
-  - [ ] Pre-Requisite:
-    - [x] CCC-1: Link to Youtube Video 
+### Common Coding Concepts
+
+
+
+#### Pre-Requisties
+
+There are no pre-requisties to start with this topic. But in general you should we aware about computers and how to operate them and should have the will, dedication and desire to learn coding. 
+
+#### Topic:
+- [x] <b>Intro ( CCC-1 )</b>: 
+  - [x] <b>Video</b>:  <a href="https://youtu.be/jyE18nTxxW4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a> 
+- [ ] <b>Language Translator ( CCC-2 )</b>:
+  - [ ] <b>Notes</b>:
+  - [ ] <b>Video</b>:
+  - [x] <b>Pre-Requisite</b>:
+    - [x] <b>CCC-1</b>: <a href="https://youtu.be/jyE18nTxxW4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a>  
