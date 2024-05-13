@@ -37,26 +37,19 @@ Ready to embark on your learning journey? Subscribe to LearnTech and hit the not
 
 #### Connect With Us:
 
-Subscribe: [Link to Subscribe]
-Website: [Your Website URL]
-Facebook: [Your Facebook Page]
-Twitter: [Your Twitter Handle]
-Instagram: [Your Instagram Handle]
+- Subscribe: <a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
+- Website: [Your Website URL]
+- Facebook: [Your Facebook Page]
+- Twitter: [Your Twitter Handle]
+- Instagram: [Your Instagram Handle]
 
 <hr/>
 
 ### Topic:
 - [ ] <b>Coding Tutorials</b>: Whether you're a beginner or an experienced coder, our coding tutorials will help you sharpen your skills in popular programming languages like Python, Java, C, C++, JavaScript, and more.
   - [x] Common Coding Concepts ( CCC ):
-    - [ ] Pre-Requisties:
-    - [ ] Playlist Link:
   - [ ] C Programming ( C ):
-    - [x] Pre-Requisties:
-      - [ ] CCC : Playlist link
-    - [ ] Playlist Link:
   - [ ] Python Programming ( Python ):
-    - [ ] Pre-Requisties:
-      - [ ] CCC : Playlist Link
      
 <hr/>
 
