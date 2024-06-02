@@ -1,9 +1,11 @@
 <h1 align="center"> Abhilasha EDU Center (अEC)</h1>
 
 <div align="center">
-<h3><i>Free Education for All</i></h3>
+<h3>Find Your Right Abhilasha</h3>
 
-<a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
+<a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
+<a href="https://discord.gg/WDfPQN7r"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/></a>
+
 
 ![अEC](assets/logo.png)
 </div>
@@ -31,33 +33,32 @@ Our mission is to empower learners with the knowledge and skills they need to su
 
 - <b>Interactive Community</b>: Join our vibrant community of learners from around the world! Engage with fellow learners, ask questions, share insights, and collaborate on projects in our comment sections and discussion forums.
 
-#### Join Us:
+<hr/>
 
+### Topic:
+- [ ] <b>Computer Science Curriculum</b>: We cover a comprehensive range of topics in computer science, including programming languages, data structures, algorithms, software engineering, and more.
+  - [ ] <b>Coding Tutorials</b>: Whether you're a beginner or an experienced coder, our coding tutorials will help you sharpen your skills in popular programming languages like Python, Java, C, C++, JavaScript, and more.
+    - [x] Common Coding Concepts ( CCC ):
+    - [ ] C Programming ( C ):
+    - [ ] Python Programming ( Python ):
+    - [ ] C++ Programming ( CPP ):
+  - [ ] <b>Specialized Tracks</b>: Explore specialized tracks in areas such as web development, mobile app development, cybersecurity, artificial intelligence, and machine learning.
+     
+<hr/>
+
+### Join Us:
+
+#### As a Learner
 Ready to embark on your learning journey? Subscribe to LearnTech and hit the notification bell to stay updated with our latest videos. Together, let's unlock the exciting world of technology and unleash your potential!
 
-#### Connect With Us:
+#### As an Educator
+
+<hr/>
+
+### Connect With Us:
 
 - Subscribe: <a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
 - Website: [Your Website URL]
 - Facebook: [Your Facebook Page]
 - Twitter: [Your Twitter Handle]
 - Instagram: [Your Instagram Handle]
-
-<hr/>
-
-### Topic:
-- [ ] <b>Coding Tutorials</b>: Whether you're a beginner or an experienced coder, our coding tutorials will help you sharpen your skills in popular programming languages like Python, Java, C, C++, JavaScript, and more.
-  - [x] Common Coding Concepts ( CCC ):
-  - [ ] C Programming ( C ):
-  - [ ] Python Programming ( Python ):
-     
-<hr/>
-
-### Our Content:
-
-Computer Science Curriculum: We cover a comprehensive range of topics in computer science, including programming languages, data structures, algorithms, software engineering, and more.
-
-Specialized Tracks: Explore specialized tracks in areas such as web development, mobile app development, cybersecurity, artificial intelligence, and machine learning.
-
-Exam Preparation: Prepare for school exams, college entrance exams, coding interviews, and certifications with our exam-focused tutorials and practice questions.
-
