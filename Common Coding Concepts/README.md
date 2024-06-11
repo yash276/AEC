@@ -50,9 +50,10 @@ There are no pre-requisties to start with this topic. But in general you should 
 - [x] <b>Intro ( CCC-1 )</b>: 
   - [x] <b>Video</b>:  <a href="https://youtu.be/jyE18nTxxW4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a> 
 - [x] <b>Language Translator ( CCC-2 )</b>:
-  - [x] <b>Notes</b>: Unfortunately we forgot to download the notes for this topic. But do not worry you can still watch the video and going forward we will keep this in mind that we download the notes for each video. 🤞
-  - [x] <b>Video</b>: <a href="https://www.youtube.com/watch?v=pRVCEMLbcH4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a> 
   - [x] <b>Pre-Requisite</b>:
     - [x] <b>CCC-1</b>: <a href="https://youtu.be/jyE18nTxxW4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a>  
+  - [x] <b>Notes</b>: Unfortunately we forgot to download the notes for this topic. But do not worry you can still watch the video and going forward we will keep this in mind that we download the notes for each video. 🤞
+  - [x] <b>Video</b>: <a href="https://www.youtube.com/watch?v=pRVCEMLbcH4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a>
+  - [x] Github Repo: <a href="https://github.com/yash276/AEC/tree/master/Common%20Coding%20Concepts/Language%20Translators"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/></a>    
      
 <hr/>
