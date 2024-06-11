@@ -46,8 +46,6 @@ Ready to embark on your learning journey? Subscribe to LearnTech and hit the not
 
 There are no pre-requisties to start with this topic. But in general you should we aware about computers and how to operate them and should have the will, dedication and desire to learn coding. 
 
-<hr/>
-
 #### Topic:
 - [x] <b>Intro ( CCC-1 )</b>: 
   - [x] <b>Video</b>:  <a href="https://youtu.be/jyE18nTxxW4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a> 
