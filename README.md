@@ -42,7 +42,7 @@ Our mission is to empower learners with the knowledge and skills they need to su
     - [ ] C Programming ( C ):
     - [ ] Python Programming ( Python ):
     - [ ] C++ Programming ( CPP ):
-  - [ ] <b>Specialized Tracks</b>: Explore specialized tracks in areas such as web development, mobile app development, cybersecurity, artificial intelligence, and machine learning.
+  - [ ] <b>Specialized Tracks</b>: Explore specialized tracks in areas such as Web Development, Mobile App Development, CyberSecurity, Artificial Intelligence, Machine Learning and much more
      
 <hr/>
 
@@ -54,11 +54,3 @@ Ready to embark on your learning journey? Subscribe to LearnTech and hit the not
 #### As an Educator
 
 <hr/>
-
-### Connect With Us:
-
-- Subscribe: <a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
-- Website: [Your Website URL]
-- Facebook: [Your Facebook Page]
-- Twitter: [Your Twitter Handle]
-- Instagram: [Your Instagram Handle]
