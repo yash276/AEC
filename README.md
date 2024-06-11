@@ -4,7 +4,7 @@
 <h3>Find Your Right Abhilasha</h3>
 
 <a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
-<a href="https://discord.gg/WDfPQN7r"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/></a>
+<a href="https://discord.gg/Kd5gSeGb6k"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/></a>
 
 
 ![अEC](assets/logo.png)
