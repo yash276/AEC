@@ -14,6 +14,10 @@
 
 ### Contents:
 
+* [About Us](#about-us)
+** [Our Mission](#our-mission)
+* [Join Us](#join-us)   
+
 <hr/>
 
 ### About Us:
