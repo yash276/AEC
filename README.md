@@ -35,17 +35,17 @@ Our mission is to empower learners with the knowledge and skills they need to su
 - [ ] <b>Computer Science Curriculum</b>: We cover a comprehensive range of topics in computer science, including programming languages, data structures, algorithms, software engineering, and more.
   - [ ] <b>Coding Tutorials</b>: Whether you're a beginner or an experienced coder, our coding tutorials will help you sharpen your skills in popular programming languages like Python, Java, C, C++, JavaScript, and more.
     - [x] Common Coding Concepts ( CCC ):
-      - [x] Playlist: 
-      - [x] Github Repo:   
+      - [x] Playlist: <a href="https://www.youtube.com/playlist?list=PLrIaov27jXhdj0PNzO0qn0LxXodi6-0jl"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Playlist"/></a>
+      - [x] Github Repo: <a href="https://github.com/yash276/AEC/tree/master/Common%20Coding%20Concepts"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/></a>    
     - [ ] C Programming ( C ):
-      - [x] Playlist: 
-      - [x] Github Repo: 
+      - [x] Playlist: <a href="https://www.youtube.com/playlist?list=PLrIaov27jXhfQQyNKPJLXy44kSOHPyOhb"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Playlist"/></a>
+      - [x] Github Repo: <a href="https://github.com/yash276/AEC/tree/master/C%20Programming"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/></a>    
     - [ ] Python Programming ( Python ):
-      - [x] Playlist: 
-      - [x] Github Repo:
+      - [x] Playlist: <a href="https://www.youtube.com/playlist?list=PLrIaov27jXhdld15SFA5c1uagOfKBwn9G"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Playlist"/></a>
+      - [x] Github Repo: <a href="https://github.com/yash276/AEC/tree/master/Python"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/></a>    
     - [ ] C++ Programming ( CPP ):
-      - [x] Playlist: 
-      - [x] Github Repo:
+      - [x] Playlist: <a href="https://www.youtube.com/playlist?list=PLrIaov27jXhcUVYLo3TYJQXMDMy78imvr"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Playlist"/></a> 
+      - [x] Github Repo: <a href="https://github.com/yash276/AEC/tree/master/Python"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/></a>    
   - [ ] <b>Specialized Tracks</b>: Explore specialized tracks in areas such as Web Development, Mobile App Development, CyberSecurity, Artificial Intelligence, Machine Learning and much more
      
 <hr/>
