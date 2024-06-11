@@ -35,9 +35,17 @@ Our mission is to empower learners with the knowledge and skills they need to su
 - [ ] <b>Computer Science Curriculum</b>: We cover a comprehensive range of topics in computer science, including programming languages, data structures, algorithms, software engineering, and more.
   - [ ] <b>Coding Tutorials</b>: Whether you're a beginner or an experienced coder, our coding tutorials will help you sharpen your skills in popular programming languages like Python, Java, C, C++, JavaScript, and more.
     - [x] Common Coding Concepts ( CCC ):
+      - [x] Playlist: 
+      - [x] Github Repo:   
     - [ ] C Programming ( C ):
+      - [x] Playlist: 
+      - [x] Github Repo: 
     - [ ] Python Programming ( Python ):
+      - [x] Playlist: 
+      - [x] Github Repo:
     - [ ] C++ Programming ( CPP ):
+      - [x] Playlist: 
+      - [x] Github Repo:
   - [ ] <b>Specialized Tracks</b>: Explore specialized tracks in areas such as Web Development, Mobile App Development, CyberSecurity, Artificial Intelligence, Machine Learning and much more
      
 <hr/>
