@@ -1,9 +1,11 @@
 <h1 align="center"> Abhilasha EDU Center (अEC)</h1>
 
 <div align="center">
-<h3><i>Free Education for All</i></h3>
+<h3>Find Your Right Abhilasha</h3>
 
-<a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
+<a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
+<a href="https://discord.gg/Kd5gSeGb6k"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/></a>
+
 
 ![अEC](../assets/logo.png)
 </div>
@@ -15,7 +17,6 @@
 <hr/>
 
 ### About Us:
-
 Welcome to <b>Abhilasha EDU Center (अEC)</b>, your one-stop destination for free, high-quality education in Computer Science, Maths, Aritifical Intelligence, Machine Learning, Data Science, Coding, ,Technology and many more to follow! At अEC, we believe that education should be accessible to everyone, regardless of their background or financial resources. That's why we're dedicated to providing comprehensive and engaging learning experiences for learners of all ages and levels.
 
 #### Our Mission:
@@ -32,34 +33,32 @@ Our mission is to empower learners with the knowledge and skills they need to su
 
 - <b>Interactive Community</b>: Join our vibrant community of learners from around the world! Engage with fellow learners, ask questions, share insights, and collaborate on projects in our comment sections and discussion forums.
 
-#### Join Us:
+<hr/>
 
+### Join Us:
+
+#### As a Learner
 Ready to embark on your learning journey? Subscribe to LearnTech and hit the notification bell to stay updated with our latest videos. Together, let's unlock the exciting world of technology and unleash your potential!
 
-#### Connect With Us:
-
-- <b>Subscribe</b>: <a href="https://www.youtube.com/@AbhilashaEduCenter"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></a>
-- <b>Website</b>: [Your Website URL]
-- <b>Facebook</b>: [Your Facebook Page]
-- <b>Twitter</b>: [Your Twitter Handle]
-- <b>Instagram</b>: [Your Instagram Handle]
-
+#### As an Educator
 
 <hr/>
 
 ### Common Coding Concepts
 
-
-
 #### Pre-Requisties
 
 There are no pre-requisties to start with this topic. But in general you should we aware about computers and how to operate them and should have the will, dedication and desire to learn coding. 
+
+<hr/>
 
 #### Topic:
 - [x] <b>Intro ( CCC-1 )</b>: 
   - [x] <b>Video</b>:  <a href="https://youtu.be/jyE18nTxxW4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a> 
 - [ ] <b>Language Translator ( CCC-2 )</b>:
-  - [ ] <b>Notes</b>:
+  - [ ] <b>Notes</b>: Unfortunately we forgot to download the notes for this topic. But do not worry you can still watch the video and going forward we will keep this in mind that we download the notes for each video. 🤞
   - [ ] <b>Video</b>:
   - [x] <b>Pre-Requisite</b>:
     - [x] <b>CCC-1</b>: <a href="https://youtu.be/jyE18nTxxW4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a>  
+     
+<hr/>
