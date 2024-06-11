@@ -12,10 +12,6 @@
 
 <hr/>
 
-### Contents:
-
-<hr/>
-
 ### About Us:
 Welcome to <b>Abhilasha EDU Center (अEC)</b>, your one-stop destination for free, high-quality education in Computer Science, Maths, Aritifical Intelligence, Machine Learning, Data Science, Coding, ,Technology and many more to follow! At अEC, we believe that education should be accessible to everyone, regardless of their background or financial resources. That's why we're dedicated to providing comprehensive and engaging learning experiences for learners of all ages and levels.
 
