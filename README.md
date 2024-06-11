@@ -8,15 +8,7 @@
 
 
 ![अEC](assets/logo.png)
-</div>
-
-<hr/>
-
-### Contents:
-
-* [About Us](#about-us)
-** [Our Mission](#our-mission)
-* [Join Us](#join-us)   
+</div> 
 
 <hr/>
 
