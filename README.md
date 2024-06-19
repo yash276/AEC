@@ -53,8 +53,9 @@ Our mission is to empower learners with the knowledge and skills they need to su
 ### Join Us:
 
 #### As a Learner
-Ready to embark on your learning journey? Subscribe to LearnTech and hit the notification bell to stay updated with our latest videos. Together, let's unlock the exciting world of technology and unleash your potential!
+Ready to embark on your learning journey? Subscribe to LearnTech and hit the notification bell to stay updated with our latest videos. Also join our discord server where we have dedicated channel for each topic along with educators to clear your doubts or join with them on a call. Together, let's unlock the exciting world of technology and unleash your potential!
 
 #### As an Educator
+If you hold expertise in some topic and share our passion to spread that knowledge to the world for free. You can leave your details either in the Youtube comments section or on discord we will contact you shortly after that. 
 
 <hr/>
