@@ -47,6 +47,12 @@ There are no pre-requisties to start with this topic. But in general you should 
   - [x] <b>Notes</b>: <a href="https://github.com/yash276/AEC/blob/master/Common%20Coding%20Concepts/Language%20Translators/language_translator_notes.jpg">Click Here</a>
   - [x] <b>Video</b>: <a href="https://www.youtube.com/watch?v=pRVCEMLbcH4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a>
   - [x] Github Repo: <a href="https://github.com/yash276/AEC/tree/master/Common%20Coding%20Concepts/Language%20Translators"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/></a>    
+- [ ] <b>Computational Thinking ( CCC-3 )</b>:
+  - [x] <b>Pre-Requisite</b>:
+    - [x] <b>CCC-1</b>: <a href="https://youtu.be/jyE18nTxxW4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a>
+  - [x] <b>Notes</b>: <a href="https://github.com/yash276/AEC/blob/master/Common%20Coding%20Concepts/Language%20Translators/language_translator_notes.jpg">Click Here</a>
+  - [x] <b>Video</b>: <a href="https://www.youtube.com/watch?v=pRVCEMLbcH4"><img src="https://img.shields.io/badge/YouTube-Video-red" alt="Youtube Channel"/></a>
+  - [x] Github Repo: <a href="https://github.com/yash276/AEC/tree/master/Common%20Coding%20Concepts/Language%20Translators"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Repo"/></a>
      
 <hr/>
 
